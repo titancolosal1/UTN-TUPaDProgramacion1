@@ -3,7 +3,7 @@ par=0
 imp=0
 pos=0
 
-for i in range(1,11):
+for i in range(1,101):
     num=int(input("ingrese numero"))
     if num&2==0 or num==2:
         par=par+1
